@@ -1,34 +1,21 @@
 # 比赛全流程体验
 NLP中文预训练模型泛化能力挑战赛
 
+## 比赛链接
+https://tianchi.aliyun.com/competition/entrance/531865/introduction
+
+## 学习链接
+https://github.com/finlay-liu/tianchi-multi-task-nlp
+
+## 优秀参考
+https://blog.csdn.net/weixin_40807714/article/details/113856151
+
 ## 训练环境介绍
 
 ```
-机器信息：NVIDIA-SMI 440.33.01    Driver Version: 440.33.01    CUDA Version: 10.2
+机器信息：NVIDIA-SMI 440.33.01    Driver Version: 440.33.01    CUDA Version: 10.2   
 pytorch 版本 1.6.0
-
-机器信息：NVIDIA-SMI 460.32.03    Driver Version: 460.32.03    CUDA Version: 11.2
-pytorch 版本 1.7.1
 ```
-
-python依赖：
-```
-pip install transformers
-```
-
-## Docker安装（Ubutun）
-
-命令行安装：
-```
-sudo apt install docker.io
-```
-
-验证：
-```
-docker info
-```
-![](https://tianchi-public.oss-cn-hangzhou.aliyuncs.com/public/files/forum/160658242933332501606582428585.png)
-
 
 ## 运行过程
 
