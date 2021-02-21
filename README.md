@@ -13,8 +13,7 @@ https://blog.csdn.net/weixin_40807714/article/details/113856151
 ## 训练环境介绍
 
 ```
-机器信息：NVIDIA-SMI 440.33.01    Driver Version: 440.33.01    CUDA Version: 10.2   
-pytorch 版本 1.6.0
+机器信息：NVIDIA-SMI 440.33.01    Driver Version: 440.33.01    CUDA Version: 10.2    pytorch 版本 1.6.0
 ```
 
 ## 运行过程
